@@ -6,6 +6,7 @@ This repository contains the source code for the Cloud Technologies final assign
 
 - **Title:** Global Energy Transition Analytics: A Cloud-Native Data Pipeline
 - **Student:** Om Nilesh Bharti (A00049459)
+- **Email ID:** omnilesh.bharti2@mail.dcu.ie 
 - **Framework:** Apache Spark 3.x (PySpark)
 - **Core Metric:** Green Energy Ratio
 - **Architecture:** The pipeline uses **Programmatic Ingestion** to achieve **statelessness** and **reproducibility** in a cloud environment.
